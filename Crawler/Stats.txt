@@ -1,0 +1,4 @@
+Maximum size: 1327882bytes
+Minimum size: 33183bytes
+Average size: 222101.6bytes
+Max Depth Reached: 2
